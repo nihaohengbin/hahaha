@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this the 2 line
+=======
+the first line
+>>>>>>> a4f1e7bbc560548303ff20c2decef3021effc469
