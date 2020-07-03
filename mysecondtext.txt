@@ -1,2 +1,6 @@
 thi is my secondtext
+<<<<<<< Updated upstream
 this is my second modify 
+=======
+thi is my first modify this  file
+>>>>>>> Stashed changes
