@@ -3,4 +3,8 @@ this the 2 line
 =======
 the first line
 >>>>>>> a4f1e7bbc560548303ff20c2decef3021effc469
+<<<<<<< HEAD
 the 4 line
+=======
+the 3 line
+>>>>>>> 1bbcc2f2f38ab0d0cf8cdb8e8726241e3442c1c5
